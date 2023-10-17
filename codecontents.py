@@ -1,6 +1,5 @@
-############################################################
+
 # OPTIONAL HELPER FUNCTIONS
-############################################################
 
 def find_next_empty(puzzle):
     # finds the next row, col on puzzle that's not filled yet --> we represent these with -1
